@@ -1,1 +1,1 @@
-# TestDeCodigos_JS_II
+Esta es la 2da parte del Repositorio 'TestDeCodigos_JS'. En éste, al igual que el anterior, se encuentran los códigos que he resuelto de los distintos cursos de 'freeCodeCamp', incluidas certificaciones.
